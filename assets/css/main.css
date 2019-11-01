@@ -2281,6 +2281,10 @@
 				width: 50%;
 			}
 
+			.box.features .features-row section.Third-box {
+				margin-left: 25%;
+			}
+
 				.box.features .features-row section :last-child {
 					margin-bottom: 0;
 				}
